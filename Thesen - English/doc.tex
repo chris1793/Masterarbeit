@@ -1,0 +1,47 @@
+\documentclass[15pt, openany, a4paper, oneside]{scrreprt}
+\input{preamble}
+
+\begin{document}
+\input{title}
+
+%Vorspann
+%Römische Zahlen
+\pagenumbering{roman}
+
+\include{declaration_of_authorship}
+%\include{abstract}
+% Inhaltsverzeichnis
+\tableofcontents
+\newpage
+% Abbildungsverzeichnis
+\listoffigures
+\newpage
+\listoftables
+\newpage
+\clearpage
+
+\include{acronyms}
+% Inhalt
+% Arabische Zahlen
+\pagenumbering{arabic}
+%\sectionnumbering{arabic} 
+\include{motivation}
+
+\include{demo}
+		
+%keine Seitennummern
+\clearpage
+\appendix
+\nocite{*}
+
+% Literaturverzeichnis
+\bibliographystyle{alphadin}
+\bibliography{references}
+\clearpage
+
+
+\pagestyle{empty}
+\thispagestyle{empty}
+
+
+\end{document}

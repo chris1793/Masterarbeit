@@ -1,0 +1,20 @@
+Trainingsumgebung (Testbed) für eine KI, die das Spiel lernt
+Information sammeln und regeln lernen, wie sie sich verhalten soll
+Spielt gegen menschliche Gegner, speichert Information und lern daraus
+Game Machanics. Unterschied zwischen rundenbasiert und echtzeit
+hart programmiert vs. lernende KI
+Erwähnen: Möglichkeit zwischen Offline lernen (Runde pro Runde) oder echtzeit
+
+Was braucht das System
+
+Suchbegriffe:
+Recherche über KI-Gegner. Google: Deep-blue für Turn-based Spiele, nicht geeignet für Echtzeit
+
+Blender:
+Subdivide
+Boolean Modifier
+
+Für nächste Woche:
+Entwurf zur Motivation und Einführung
+Entwurf der Aufgabenstellung
+Weiter an den Testbed arbeiten

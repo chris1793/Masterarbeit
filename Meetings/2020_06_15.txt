@@ -1,0 +1,12 @@
+Motivation: Es fehlt das Warum
+Bedeutung dieser Arbeit
+Erwähenen der Bedeutung von KI bei Computerspiele
+KI hat 5 Elemente. Wir interessieren uns fürs Lernen
+Mashine Learning braucht Trainingsdaten, und deswegen der Testbed
+
+Literatur über das Programmieren eines Kickertisch. Artikel über Computerspiele, Mensch. Maschine Scnittstelle, oder Ä
+Für nächste Woche
+Zeitplan mit Meilensteinen entwerfen
+	Zwei bis Vier Wochen für das Schreiben der Arbeit am Ende festlegen
+
+

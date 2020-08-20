@@ -1,0 +1,10 @@
+\babel@toc {ngerman}{}
+\contentsline {section}{\numberline {0.1}Schriftliche Ausf\IeC {\"u}hrung von Abschlussarbeiten}{1}
+\contentsline {subsection}{\numberline {0.1.1}Allgemeine Richtlinien}{1}
+\contentsline {subsection}{\numberline {0.1.2}\IeC {\"A}u\IeC {\ss }ere Gestaltung}{1}
+\contentsline {subsection}{\numberline {0.1.3}Inhaltliche Gestaltung}{2}
+\contentsline {section}{\numberline {0.2}Elektronische Ausf\IeC {\"u}hrung der Arbeit}{6}
+\contentsline {section}{\numberline {0.3}Kolloquium}{7}
+\contentsline {section}{\numberline {0.4}Poster}{8}
+\contentsline {section}{\numberline {0.5}Abschnitt}{9}
+\contentsline {subsection}{\numberline {0.5.1}Unterabschnitt}{9}

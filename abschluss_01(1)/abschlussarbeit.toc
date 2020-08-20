@@ -1,0 +1,9 @@
+\babel@toc {german}{}
+\contentsline {chapter}{Inhaltsverzeichnis}{2}
+\contentsline {chapter}{\numberline {1}Eidesstattliche Erkl\"arung}{3}
+\contentsline {chapter}{\numberline {2}Einleitung}{4}
+\contentsline {chapter}{\numberline {3}\"Ubersicht \"uber das Themengebiet}{5}
+\contentsline {chapter}{\numberline {4}Entwicklung der eigenen L\"osung}{6}
+\contentsline {chapter}{\numberline {5}Implementierung der eigenen L\"osung}{7}
+\contentsline {chapter}{\numberline {6}Bewertung der eigenen L\"osung}{8}
+\contentsline {chapter}{\numberline {7}Zusammenfassung und Ausblick}{9}

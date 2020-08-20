@@ -1,0 +1,40 @@
+Spaß am Kickerspiel
+- Obwohl die Simulation an erster Stelle für Forschungszwecke benutzt wird, könnte es dennoch von Wichtigkeit sein, sie so zu entwickeln, dass es dem Nutzer Spaß macht. Die KI soll nämmlich immer besser werden, deshalb muss sie von immer besseren Gegnern lernen. Wenn die Simulation im Form eines Videospiels Spaß macht, hat man als Tester eine größere Motivation es zu spielen und besser zu werden, wodurch bessere Daten erfasst werden können.
+
+Möglichkeit, dass bis zu 4 Spieler das Spiel spielen können
+
+Aufgabenstellung:
+Motivation und Bedeutung der Forschung an künstliche Intelligenz
+Modellieren des Testbeds. Kickertisch mit Figuren, Ball, etc
+Engine: Kompromiss zwischen realisitische Engine und Spielbarkeit
+Eingabegeräte/Eingabemethode. Steuerung finden, die sich für einen Kickerspiel eignen: Geräte: Maus, Taustatur oder Controller
+Möglichkeit Zustände zu speichern, so dass das System dazu lernen kann.
+
+
+Zeitplan für Masterarbeit
+Modellierung in Blender
+	Spielerfiguren
+	Stangen
+	Tisch
+	Ball
+	
+Programmierung der Engine
+Programmierung der Benutzerschnittstelle
+Programmierung des Menüs und HUDs
+
+Quelle Bauplan des Kickertischs:
+22.07.2020
+https://www.tischfussball-online.com/dies-das/kickerbau.html
+Fußball Tisch Skizze
+https://www.heimwerker.de/kicker-bauen-tischfussball-fuer-fussballfans/
+
+Stangen
+https://www.tischkicker.de/media/catalog/product/cache/1/image/800x800/9df78eab33525d08d6e5fb8d27136e95/m/a/massive-kickerstange-abmessungen.png
+
+Spielfiguren:
+https://www.heiku.de/Kicker/24820/Kickerpuppe-Soccer
+
+Ballgröße:
+
+
+Für die Modellierung des Kickertischs musste ich nach einen Bauplan suchen, damit die Proportionen einiegermaßen relistisch sind
