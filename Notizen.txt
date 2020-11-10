@@ -24,9 +24,7 @@ Programmierung des Menüs und HUDs
 
 Quelle Bauplan des Kickertischs:
 22.07.2020
-https://www.tischfussball-online.com/dies-das/kickerbau.html
-Fußball Tisch Skizze
-https://www.heimwerker.de/kicker-bauen-tischfussball-fuer-fussballfans/
+http://tischkicker-kaufen.org/tischkicker-masse/
 
 Stangen
 https://www.tischkicker.de/media/catalog/product/cache/1/image/800x800/9df78eab33525d08d6e5fb8d27136e95/m/a/massive-kickerstange-abmessungen.png
@@ -37,7 +35,10 @@ https://www.heiku.de/Kicker/24820/Kickerpuppe-Soccer
 Muster Fußballfeld:
 https://www.duden.de/rechtschreibung/Fuszballfeld
 
-Ballgröße:
-
 
 Für die Modellierung des Kickertischs musste ich nach einen Bauplan suchen, damit die Proportionen einiegermaßen relistisch sind
+
+MOdelling:
+3 Möglichkeiten:
+Einscannen, per Hand modellieren oder Prozedual.
+Warum habe ich per Hand gewählt. Was gabt es für Schwiereigkeiten

@@ -1,9 +1,61 @@
-This is BibTeX, Version 0.99dThe top-level auxiliary file: doc.aux
+This is BibTeX, Version 0.99d
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: doc.aux
+Reallocating 'name_of_file' (item size: 1) to 34 items.
 A level-1 auxiliary file: selbststaendigkeitserklaerung.aux
+Reallocating 'name_of_file' (item size: 1) to 17 items.
 A level-1 auxiliary file: abkuerzungen.aux
+Reallocating 'name_of_file' (item size: 1) to 15 items.
 A level-1 auxiliary file: einleitung.aux
+Reallocating 'name_of_file' (item size: 1) to 17 items.
+A level-1 auxiliary file: Modellierung.aux
+Reallocating 'name_of_file' (item size: 1) to 9 items.
 The style file: plainnat.bst
+Reallocating 'name_of_file' (item size: 1) to 10 items.
 Database file #1: literatur.bib
 Warning--to sort, need author or key in Tischkicker
+Warning--to sort, need author or key in Blender
+Warning--empty year in Blender
 Warning--empty year in Tischkicker
-(There were 2 warnings)
+You've used 3 entries,
+            2773 wiz_defined-function locations,
+            613 strings with 5310 characters,
+and the built_in function-call counts, 866 in all, are:
+= -- 76
+> -- 10
+< -- 2
++ -- 6
+- -- 3
+* -- 48
+:= -- 105
+add.period$ -- 9
+call.type$ -- 3
+change.case$ -- 9
+chr.to.int$ -- 3
+cite$ -- 12
+duplicate$ -- 54
+empty$ -- 108
+format.name$ -- 4
+if$ -- 199
+int.to.chr$ -- 1
+int.to.str$ -- 1
+missing$ -- 2
+newline$ -- 23
+num.names$ -- 4
+pop$ -- 50
+preamble$ -- 1
+purify$ -- 7
+quote$ -- 0
+skip$ -- 31
+stack$ -- 0
+substring$ -- 10
+swap$ -- 6
+text.length$ -- 1
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 28
+warning$ -- 4
+while$ -- 4
+width$ -- 0
+write$ -- 42
+(There were 4 warnings)
